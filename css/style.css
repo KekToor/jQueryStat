@@ -1,0 +1,23 @@
+.navStyling{
+    background-color: rgb(90, 86, 86);
+    position: sticky;
+    color: white;
+    font-size: 1.1em;
+}
+
+.whiteText{
+    color: white !important;
+}
+
+.upravaNadpisu{
+    font-size: 3em !important;
+    background-color: rgb(206, 67, 67);
+}
+
+.specialColorT{
+    color: rgb(206, 67, 67);
+}
+
+.jumbotron{
+border-radius: 0;
+}
