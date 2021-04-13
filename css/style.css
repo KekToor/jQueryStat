@@ -26,9 +26,11 @@
     border: 1px solid darkgray;
 }
 
-.bg-infotable{
+h2{
     background-color: rgb(206, 67, 67);
     font-size: 1.6em;
+    color: white !important;
+    font-weight: bold;
 }
 
 .font-miniinfo{
