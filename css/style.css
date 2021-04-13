@@ -1,6 +1,7 @@
 .navStyling{
     background-color: rgb(90, 86, 86);
     position: sticky;
+    top: 0;
     color: white;
     font-size: 1.1em;
 }
@@ -9,6 +10,9 @@
     color: white !important;
 }
 
+.grayText{
+    color: gray !important;
+}
 .upravaNadpisu{
     font-size: 3em !important;
     background-color: rgb(206, 67, 67);
@@ -23,16 +27,23 @@
 }
 
 .borda{
-    border: 1px solid darkgray;
+    border: 2px solid rgb(104, 102, 102);
+    border-radius: 2px 2px 2px 2px;
 }
 
-h2{
+h2, .uvodTabulka{
     background-color: rgb(206, 67, 67);
     font-size: 1.6em;
-    color: white !important;
+    color: white;
     font-weight: bold;
 }
 
 .font-miniinfo{
     font-size: 1.2em;
+}
+
+footer{
+    bottom: 0;
+    background-color: rgb(90, 86, 86);
+    font-size: 2em;
 }
