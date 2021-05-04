@@ -47,3 +47,7 @@ footer{
     background-color: rgb(90, 86, 86);
     font-size: 2em;
 }
+
+.displayFlex{
+    display: flex;
+}
