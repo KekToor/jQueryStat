@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Měšek I.",
+        "birth":"~935",
+        "death":"25.5.992",
+        "bio":"<strong>Měšek I.</strong>, někdy také nazýván <strong>Mečislav</strong>, (asi 935 – 25. května 992) byl <b>nejstarším</b> historicky doloženým polským knížetem z rodu <i>Piastovců</i>. První zpráva o něm pochází z roku <b>963</b>. Zemřel v roce <b>992</b>. S jeho vládou bylo spojeno dokončení územního formování polského státu – k pravděpodobně zděděnému <i>Velkopolsku, Mazovsku a oblasti v okolí Sieradze a Łęczyce</i> připojil přinejmenším <i>Slezsko a Západní Pomoří</i>.",
+        "portrait":"mesek.jpg",
+        "wiki":"https://cs.wikipedia.org/wiki/M%C4%9B%C5%A1ek_I."
+    },
+    {
+        "name":"Kazimír III. Veliký",
+        "birth":"30.4.1310",
+        "death":"5.11.1370",
+        "bio":"<strong>Kazimír III. Veliký</strong> (vládl <b>1333–1370</b>), si vydobyl pověst jednoho z největších polských králů. Rozšířil <i>královskou ochranu Židů</i> a povzbuzoval je k imigraci do Polska. Založil rovněž <b>Krakovskou univerzitu</b>. Posílil moc šlechty (Zlaté svobody) a kodifikoval polské právo. Učinil dohodu s českým králem <b>Karlem IV.</b> – Kazimír se zřekl Slezska na oplátku za to, že čeští králové nebudou usilovat o polskou korunu. Zabránil rozšíření černé smrti do Polska opatřeními na hranicích. S ním ovšem piastovská dynastie <b>vymřela</b>.",
+        "portrait":"kazimir.jpg",
+        "wiki":"https://cs.wikipedia.org/wiki/Kazim%C3%ADr_III._Velik%C3%BD"
+    },
+    {
+        "name":"Mikuláš Koperník",
+        "birth":"19.2.1473",
+        "death":"24.5.1543",
+        "bio":"<b>Mikuláš Koperník</b> byl <i>astronom, matematik, právník, stratég a lékař, římskokatolický duchovní a tvůrce heliocentrické (sluncestředné) teorie</i>. Jsou po něm pojmenovány krátery na <b>Měsíci</b> (<i>Koperník</i>) a na <b>Marsu</b> (Koperník) a také prvek <b>kopernicium</b> s protonovým číslem <i>112</i>.",
+        "portrait":"mikolas.jpg",
+        "wiki":"https://cs.wikipedia.org/wiki/Mikul%C3%A1%C5%A1_Kopern%C3%ADk"
+    },
+    {
+        "name":"Stanisław Żółkiewski",
+        "birth":"~1547",
+        "death":"7.10.1620",
+        "bio":"<b>Stanisław Żółkiewski</b> byl polský šlechtic erbu <i>Lubicz</i>, magnát a vojenský velitel <b>polsko-litevské Republiky</b> obou národů, který se účastnil mnoha tažení zejména na jižní a východní hranici polsko-litevského státu. Zastával řadu vysokých oficiálních pozic, včetně <b>kastelána Lvova</b> (od roku <i>1590</i>), vojvody <b>Kyjevského vojvodství</b> a <b>velkého kancléře koruny</b> (od roku <i>1618</i>). Od roku <b>1588</b> zaujímal také úřad korunního polního hejtmana a v roce <b>1613</b> byl povýšen na <b>velkého korunního hejtmana</b>. Během své vojenské kariéry zvítězil ve velkých bitvách proti <i>Švédsku, Moskevskému carství, Osmanské říši a Krymskému chanátu</i>. Nejznámější Żółkiewského vítězství bylo proti spojeným ruským a švédským silám v <b>bitvě u Klušina</b> v roce <b>1610</b>, po které Poláci dobyli a obsadili <b>Moskvu</b>. Zemřel v roce 1620 v <b>bitvě u Cecory</b> proti <i>Turkům</i> poté, co údajně odmítl ustoupit. Již předtím proslul jako vojenský vůdce a jeho hrdinská smrt dál posílila jeho slávu. Je považován za jednoho z nejschopnějších vojenských velitelů v historii Republiky obou národů.",
+        "portrait":"standa.png",
+        "wiki":"https://cs.wikipedia.org/wiki/Stanis%C5%82aw_%C5%BB%C3%B3%C5%82kiewski"
+    },
+    {
+        "name":"Medvěd Wojtek",
+        "birth":"1941",
+        "death":"2.12.1963",
+        "bio":"<b>Wojtek</b> byl <b>medvěd syrský</b> adoptovaný vojáky <i>22. zásobovací roty dělostřelectva 2. polského armádního sboru</i>, jemuž velel <b>generál Anders</b>. Účastnil se <b>Bitvy o Monte Cassino</b> a dosáhl hodnosti <b>desátníka</b>. V <i>dubnu roku 1942</i> polští vojáci na cestě z Persie do Palestiny za několik konzerv odkoupili malé, hnědé medvídě od perského chlapce. Medvěd ještě neuměl sám jíst a vojáci ho krmili kondenzovaným mlékem zředěným vodou z lahve od vodky, do které byl nakroucený šátek. Možná právě z toho důvodu Wojtek v dospělosti preferoval pít právě ze skleněných lahví. Medvěd byl oficiálně zaevidován do <i>22. zásobovací roty</i>, se kterou byl v průběhu celé války až po <i>demobilizaci ve Velké Británii</i>.",
+        "portrait":"wojtek.jpg",
+        "wiki":"https://cs.wikipedia.org/wiki/Stanis%C5%82aw_%C5%BB%C3%B3%C5%82kiewski"
+    }
+]
