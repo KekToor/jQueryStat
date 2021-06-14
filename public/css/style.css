@@ -51,3 +51,11 @@ footer{
 .displayFlex{
     display: flex;
 }
+
+.biggerSize{
+    font-size: 1.5em;
+}
+
+.custom-control-input{
+    size: 100;
+}
