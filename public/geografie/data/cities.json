@@ -5,15 +5,17 @@
         "pop":1790658,
         "znak":"varsava.png",
         "obrazky":"varsava1.jpg",
-        "popis":"Varšava (polsky Warszawa, výslovnost výslovnost [varˈʂava]IPA) je hlavní (od roku 1918) a největší město Polska. Žije zde přibližně 1,79 milionu[1][2][3] obyvatel, s okolní aglomerací kolem 3 milionů obyvatel. Varšava leží ve středním Polsku v historickém Mazovsku na středním toku Visly ve Varšavské kotlině v průměrné výšce 100 metrů n. m., 520 km východně od Berlína a 250 km jižně od pobřeží Baltského moře. Varšava je také hlavním městem Mazovského vojvodství. V metropoli je rozvinutý průmysl, zvláště zpracovatelský, ocelářský, elektrotechnický a automobilový. Sídlí zde více než 60 vzdělávacích institucí, především Varšavská univerzita (Uniwersytet Warszawski), Univerzita kardinála Stefana Wyszyńského, Varšavská technická univerzita (Politechnika Warszawska), Varšavská ekonomická škola (Szkoła Główna Handlowa) a další. Je tu přes 30 divadel, včetně Národního divadla a opery a má tu sídlo Národní filharmonický orchestr."
+        "desc":"Panorama Varšavy z mostu Siekierkowskiego",
+        "popis":"Varšava (polsky Warszawa) je hlavní (od roku 1918) a největší město Polska. Žije zde přibližně 1,79 milionu[1][2][3] obyvatel, s okolní aglomerací kolem 3 milionů obyvatel. Varšava leží ve středním Polsku v historickém Mazovsku na středním toku Visly ve Varšavské kotlině v průměrné výšce 100 metrů n. m., 520 km východně od Berlína a 250 km jižně od pobřeží Baltského moře. Varšava je také hlavním městem Mazovského vojvodství. V metropoli je rozvinutý průmysl, zvláště zpracovatelský, ocelářský, elektrotechnický a automobilový. Sídlí zde více než 60 vzdělávacích institucí, především Varšavská univerzita (Uniwersytet Warszawski), Univerzita kardinála Stefana Wyszyńského, Varšavská technická univerzita (Politechnika Warszawska), Varšavská ekonomická škola (Szkoła Główna Handlowa) a další. Je tu přes 30 divadel, včetně Národního divadla a opery a má tu sídlo Národní filharmonický orchestr."
     },
     {
         "id":"vra",
         "name":"Vratislav",
         "pop":638659,
         "znak":"vratislav.svg",
-        "obrazky":"vratislav1.jpg",
-        "popis":"Vratislav (polsky zvuk Wrocław, německy Breslau, slezskoněmecky Brassel, latinsky Wratislavia či Vratislavia) je město v jihozápadním Polsku, sídlo Dolnoslezského vojvodství a historické hlavní město Slezska. Rozkládá se na Slezské nížině na řece Odře. V roce 2019 mělo 642 869 trvale registrovaných obyvatel a bylo tak největším městem celého Slezska a čtvrtým největším městem v Polsku."
+        "obrazky":"vratislav1.jpeg",
+        "desc":"Pohled na centrum města",
+        "popis":"Vratislav (polsky Wrocław, německy Breslau, slezskoněmecky Brassel, latinsky Wratislavia či Vratislavia) je město v jihozápadním Polsku, sídlo Dolnoslezského vojvodství a historické hlavní město Slezska. Rozkládá se na Slezské nížině na řece Odře. V roce 2019 mělo 642 869 trvale registrovaných obyvatel a bylo tak největším městem celého Slezska a čtvrtým největším městem v Polsku."
     },
     {
         "id":"op",
@@ -21,110 +23,124 @@
         "pop":128035,
         "znak":"opoli.png",
         "obrazky":"opoli1.jpg",
+        "desc":"Historické centrum nad Odrou",
         "popis":"Opolí (polsky Opole, německy Oppeln, slezsky Uopole / Ôpole, slezskoněmecky Uppeln) je město s postavením okresu v jižním Polsku, sídlo Opolského vojvodství a okresu Opolí. Leží na Odře na Opolské planině, která je součástí Slezské nížiny. Historicky je hlavním městem Horního Slezska. V roce 2019 čítalo 128 035 obyvatel."
     },
     {
         "id":"zel",
         "name":"Zelená Hora",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":141222,
+        "znak":"zelenahora.png",
+        "obrazky":"zelenahora1.jpg",
+        "desc":"Radnice a staré náměstí",
+        "popis":"Zelená Hora (polsky Zielona Góra, německy Grünberg in Schlesien) je město v západním Polsku, sídlo samosprávy (sejmiku) Lubušského vojvodství. Má postavení samostatného okresu a zároveň je sídlem okresu Zelená Hora. Leží na historickém území Dolního Slezska, avšak vazby na zbytek regionu a s tím i slezská identita v posledních desetiletích zeslábly a město je spíše vnímáno jako správní, kulturní a ekonomické centrum oblasti, pro kterou se vzhledem k názvu vojvodství vžilo nepřesné označení Lubušsko. V roce 2019 zde žilo 141 222 obyvatel."
     },
     {
         "id":"poz",
         "name":"Poznaň",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":533830,
+        "znak":"poznan.png",
+        "obrazky":"poznan1.jpg",
+        "desc":"Poznaňské náměstí",
+        "popis":"Poznaň (polsky Poznań, německy Posen, latinsky Posnania) je jedno z nejstarších a největších polských měst. Leží ve Velkopolsku na řece Wartě a je důležitým obchodním a dopravním uzlem mezi Berlínem a Varšavou. Poznaň je sídlem prvního polského biskupství, nyní Poznaňského arcibiskupství. Má rozlohu 262 km² a přibližně 534 tisíc obyvatel. Od roku 1999 je metropolí Velkopolského vojvodství."
     },
     {
         "id":"gda",
         "name":"Gdaňsk",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":464254,
+        "znak":"gdansk.png",
+        "obrazky":"gdansk1.jpg",
+        "desc":"Panoráma města s chrámem Nanebevzetí Panny Marie a radnicí",
+        "popis":"Gdaňsk (polsky Gdańsk s výslovností výslovnost [gdaɲsk]IPA, kašubsky Gduńsk, německy Danzig s výslovností výslovnost [ˈdantsɪç]IPA, latinsky Gedania, Gedanum anebo Dantiscum) je jedno z nejstarších a největších polských měst, metropolí Pomořského vojvodství, ležící v Pomoří na řekách Visle a Motławě na břehu Baltského moře u Gdaňského zálivu. Po dobu téměř 800 let, do roku 1793, byl součástí polských státních útvarů, poté byl na necelých 152 let ovládán Pruskem a později Německým císařstvím, Výmarskou republikou a nakonec Třetí říší. Roku 1945 byl navrácen Polské republice. Gdaňsk hraje také roli kašubského hlavního města, jejich kulturního centra a sídla nejdůležitějších kašubských institucí. V současnosti má rozlohu 262,5 km² a přibližně 464 tisíc obyvatel. Nachází se zde velký námořní přístav."
     },
     {
         "id":"ols",
         "name":"Olštýn",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":173599,
+        "znak":"olstyn.png",
+        "obrazky":"olstyn1.jpg",
+        "desc":"Katedrála sv. Jakuba",
+        "popis":"Olsztyn, česky Olštýn, (německy Allenstein, litevsky Olštynas, lotyšsky Olština, slezsky Uolsztyn, prusky Alnāsteini) je hlavní město Varmijsko-mazurského vojvodství v severním Polsku, na řece Łyna. Město má postavení okresu, žije v něm přibližně 174 tisíc obyvatel."
     },
     {
         "id":"byd",
         "name":"Bydhošť",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":346739,
+        "znak":"bydhost.png",
+        "obrazky":"bydhost1.jpg",
+        "desc":"Pohled na historické centrum města",
+        "popis":"Bydhošť (polsky Bydgoszcz, německy Bromberg) je hlavní město Kujavsko-pomořského vojvodství v severním Polsku na soutoku řek Brdy a Visly. Je osmým největším polským městem. Žije zde přibližně 347 tisíc obyvatel, s aglomerací má přes 470 000 obyvatel. Ve městě od roku 1968 sídlí Univerzita Kazimíra Velikého."
     },
     {
         "id":"lod",
         "name":"Lodž",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":687702,
+        "znak":"lodz.png",
+        "obrazky":"lodz1.jpg",
+        "desc":"Ulice v centru města",
+        "popis":"Lodž (polsky Łódź, německy Lodz nebo Lodsch, 1940–1945: Litzmannstadt) je město i okres v centrální části Polska. V Lodži v roce 2018 žilo přes 687 702 obyvatel a bylo tak třetím největším polským městem po Varšavě a Krakově. Od roku 1999 je hlavním městem Lodžského vojvodství. Katastrální území Lodži zaujímá 294 km². Město leží v nadmořské výšce 164-284 metrů n. m., 130 km jihozápadně od Varšavy. Je průmyslovým centrem Polska a důležitým místem kinematografie, ve kterém se vyrábí nejvíce polských celovečerních filmů."
     },
     {
         "id":"kat",
         "name":"Katovice",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":291774,
+        "znak":"katovice.png",
+        "obrazky":"katovice1.jpg",
+        "desc":"Centrum města s tramvají",
+        "popis":"Katovice (polsky Katowice, slezsky Katowicy, německy Kattowitz, v letech 1953–1956 Stalinogród) jsou město v jižním Polsku, sídlo Slezského vojvodství, v současnosti největší město Horního Slezska s 291 774 obyvatel (2020) a jádro dvoumilionové konurbace zahrnující 30 měst na obou stranách historické slezsko-malopolské zemské hranice. Katovice jsou poměrně mladé město, které za svůj vznik a růst vděčí industrializaci a výstavbě železničního uzlu v polovině 19. století. Status města obdrželo v roce 1865 a po roce 1922, kdy se stalo hlavním střediskem polské části Slezska, zažilo období prudkého rozvoje. Tehdy získalo ráz velkoměsta, který si stále udržuje. Po roce 1989 výrazně poklesl význam těžby uhlí a těžkého průmyslu pro místní ekonomiku ve prospěch služeb a průmyslu nových technologií."
     },
     {
         "id":"ste",
         "name":"Štětín",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":403833,
+        "znak":"stetin.png",
+        "obrazky":"stetin1.jpg",
+        "desc":"Pohled na Baziliku svatého Jana Křtitele",
+        "popis":"Štětín (pol. Szczecin, něm. Stettin) je město (a přístav) položené na Odře v severozápadním Polsku, hlavní město Západopomořanského vojvodství a historická metropole Pomořanska. Město bylo založeno slovanskými osadníky nejspíše již v 7. století, avšak městská práva získal v roce 1243. Do počátku 16. století ve Štětíně dominovala polština, ale ještě v tomtéž století docházelo k rapidní germanizaci tamního obyvatelstva. Žije zde přibližně 404 tisíc obyvatel. Rozloha města je 301 km²."
     },
     {
         "id":"kra",
         "name":"Krakov",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":780981,
+        "znak":"krakov.png",
+        "obrazky":"krakov1.jpg",
+        "desc":"Pohled na náměstí (největší v Evropě)",
+        "popis":"Krakov (polsky Kraków, latinsky Cracovia, litevsky Krokuva, německy Krakau, anglicky Cracow, maďarsky Krakkó, ukrajinsky Краків, tatarsky Краков, v jidiš קראקע Krůke) je metropole Malopolského vojvodství v jižním Polsku, v historické zemi Malopolsku. Leží na řece Visle, v nejužším místě tzv. Krakovské brány, která spojuje Sandoměřskou kotlinu s kotlinou Osvětimskou. V roce 2020 měl Krakov 780 981 obyvatel (druhé největší polské město podle počtu obyvatel). Rozloha města činí 327 km². (Druhé největší město podle rozlohy). Podle informací z městského úřadu, v Krakově bydlí něco málo přes milion obyvatel. 250 000 obyvatel nenahlášených k pobytu + 50 000 Ukrajinců. Studuje zde 150 000 studentů."
     },
     {
         "id":"kie",
         "name":"Kielce",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":191605,
+        "znak":"kielce.png",
+        "obrazky":"kielce1.jpg",
+        "desc":"Biskupský palác",
+        "popis":"Kielce je město ve středním Polsku, od roku 1999 je hlavním městem Svatokřížského vojvodství, předtím bylo hlavním městem Kieleckého vojvodství (1919–1939, 1945–1998). Žije zde přibližně 192 tisíc obyvatel. Kielce se nacházejí ve střední oblasti Svatokřížských hor, na březích říčky Silnica. V dřívějších dobách šlo o významné centrum těžby vápence a kovových rud, v současnosti jsou Kielce významným kulturním a obchodním centrem."
     },
     {
         "id":"res",
         "name":"Řešov",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":189111,
+        "znak":"resov.png",
+        "obrazky":"resov1.jpg",
+        "desc":"Památník revoluce",
+        "popis":"Řešov (polsky Rzeszów, latinsky Resovia, německy Reichshof, ukrajinsky Ряшів, hebr. Reysha) je město ležící v jihovýchodním Polsku; jde o metropoli Podkarpatského vojvodství, hospodářské a kulturní centrum a důležitou dopravní křižovatku."
     },
     {
         "id":"lul",
         "name":"Lublin",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":339850,
+        "znak":"lublin.png",
+        "obrazky":"lublin1.jpg",
+        "desc":"Krakowskie Przedmieście - ulice na Starém Městě",
+        "popis":"Lublin je polské historické město ležící ve východním Polsku mezi Varšavou (160 km) a hranicí s Ukrajinou (80 km). Žije zde přibližně 340 tisíc obyvatel, je 9. největším polským městem a největším sídlem východně od Visly. Lublin je střediskem Lublinského vojvodství. Městem protéká řeka Bystrzyca."
     },
     {
         "id":"bia",
         "name":"Bělostok",
-        "pop":1,
-        "znak":"",
-        "obrazky":"",
-        "popis":""
+        "pop":297554,
+        "znak":"belostok.png",
+        "obrazky":"belostok1.jpeg",
+        "desc":"Centrum města",
+        "popis":"Bělostok, (polsky Białystok ve 2. pádě Białegostoku, litevsky Balstogė, rusky Белосток, bělorusky Беласток, v jidiš ביאַליסטאָק‎, slovensky Bielostok) je hlavní a největší město Podleského vojvodství v severovýchodním Polsku. Leží na řece Biała, 44 kilometrů od hranic s Běloruskem. Žije zde přibližně 298 tisíc obyvatel. Mezi 16 hlavními městy vojvodství Polska, Bělostok je 2. městem podle hustoty osídlení, 11. podle počtu obyvatel a 13. podle rozlohy. Bělostok plní funkci administračního, hospodářského, vědeckého a kulturního centra regionu. Město s přilehlými okresy tvoří bělostockou aglomeraci. Bělostok je univerzitním městem, má zde sídlo mezinárodní akademická organizace Centrum informací a organizace výzkumu veřejných financí a daňového práva zemí Střední a Východní Evropy, a to na zdejší právnické fakultě. Vedle univerzity se v Bělostoku také nachází Lékařská akademie."
     }
 ]
