@@ -55,12 +55,10 @@ $(document).ready(function () {
         if (lastfill == 'rgb(255, 255, 0)') { //if lastfill is yellow
             $(this).css({ 'fill': 'black' }); //set the color to black
             lastfill = "#7c7c7c"; //set lastfill to grey
-            $("h1").html("nope");
         } else {
             $("path").css('fill', $("svg").attr('fill')); //revert all to grey
             $(this).css({ 'fill': 'yellow' }); //set current to yellow
             lastfill = "rgb(255, 255, 0)"; //set last fill to yellow
-            $("h1").html($(this).attr('name')); //set h1 to name of path
         }
     });
     $("path").on('mouseover', function () { //on mouse over on path

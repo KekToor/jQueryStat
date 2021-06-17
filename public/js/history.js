@@ -45,7 +45,7 @@ $(function(){
                             <h3 class = "font-weight-bold">${hrdina.name}</h3>
                             <div class = "hero-popis">
                                 <h5 class = font-weight-bold>* ${hrdina.birth} &nbsp; &#10015; ${hrdina.death}</h5>
-                                <p class = "px-5">
+                                <p class = "px-5 text-justify">
                                     ${hrdina.bio}
                                 </p>
                                 <p class = "px-3">
